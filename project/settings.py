@@ -18,6 +18,8 @@ DATABASES = {
     }
 }
 
+# DJANGO_SETTINGS_MODULE = 'E-DIARY'
+
 INSTALLED_APPS = ['datacenter']
 
 ROOT_URLCONF = 'project.urls'
